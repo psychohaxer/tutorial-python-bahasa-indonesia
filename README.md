@@ -13,3 +13,5 @@ Repositori ini berisi notebook pembelajaran bahasa Python berbahasa Indonesia. S
 [Bab 5 Operator](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/5.ipynb)
 
 [Bab 6 Operasi Khusus pada Tipe Data](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/6.ipynb)
+
+[Bab 7 Percabangan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/7.ipynb)
