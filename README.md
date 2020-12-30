@@ -22,7 +22,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 9 Pemgoraman Fungsional](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/9.ipynb)
 
-- [ ] Bab 10 Pemrograman Berorientasi Objek
+- [ ] [Bab 10 Pemrograman Berorientasi Objek](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.ipynb) (In Progress..)
 
 - [ ] Bab 11 Error dan Exception Handling
 
