@@ -24,7 +24,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10 Pemrograman Berorientasi Objek Part 1](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.ipynb)
 
-- [ ] [Bab 10 Pemrograman Berorientasi Objek Part 2]
+- [ ] Bab 10 Pemrograman Berorientasi Objek Part 2
 
 - [ ] Bab 11 Error dan Exception Handling
 
