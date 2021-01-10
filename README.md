@@ -64,5 +64,6 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 Ada beberapa hal yang bisa Anda lakukan jika ingin menjadi kontributor. Dibawah ini saya berikan daftarnya.
 
 - [ ] Konversi notebook bab 1-9 menjadi PDF
+
 Karena suatu hal, saya tidak bisa mengkonversi notebook menjadi PDF. Tolong bantu saya dengan clone repository ini lalu konversi notebook bab 1 sampai bab 9 menjadi PDF untuk disimpan dalam folder `pdf` dan buat Pull Request.
 
