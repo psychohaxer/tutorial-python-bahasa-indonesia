@@ -22,9 +22,11 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 9 Pemgoraman Fungsional](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/9.ipynb)
 
-- [x] [Bab 10 Pemrograman Berorientasi Objek Part 1](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.ipynb)
+- [x] [Bab 10.a Pemrograman Berorientasi Objek Part 1: Pengenalan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.a.ipynb)
 
-- [ ] Bab 10 Pemrograman Berorientasi Objek Part 2
+- [x] [Bab 10.b Pemrograman Berorientasi Objek Part 2: Pewarisan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.b.ipynb)
+
+- [ ] Bab 10.c Pemrograman Berorientasi Objek Part 3: Manipulasi Atribut (In progress..)
 
 - [ ] Bab 11 Error dan Exception Handling
 
@@ -63,7 +65,6 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 ## Untuk Kontributor
 Ada beberapa hal yang bisa Anda lakukan jika ingin menjadi kontributor. Dibawah ini saya berikan daftarnya.
 
-- [ ] Konversi notebook bab 1-9 menjadi PDF
-
+### Konversi notebook bab 1-9 menjadi PDF
 Karena suatu hal, saya tidak bisa mengkonversi notebook menjadi PDF. Tolong bantu saya dengan clone repository ini lalu konversi notebook bab 1 sampai bab 9 menjadi PDF untuk disimpan dalam folder `pdf` dan buat Pull Request.
 
