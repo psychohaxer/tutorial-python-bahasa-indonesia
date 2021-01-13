@@ -26,7 +26,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.b Pemrograman Berorientasi Objek Part 2: Pewarisan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.b.ipynb)
 
-- [ ] Bab 10.c Pemrograman Berorientasi Objek Part 3: Manipulasi Atribut (In progress..)
+- [ ] Bab 10.c Pemrograman Berorientasi Objek Part 3: Bekerja dengan Atribut (In progress..)
 
 - [ ] Bab 11 Error dan Exception Handling
 
@@ -61,6 +61,18 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 - [ ] Bab 26 Python Data Science
 
 - [ ] Bab 27 Python Machine Learning
+
+## Throwaway Codes
+Folder ini berisi notebook hasil latihan.
+
+- [x] [Notebook 2020-12-10](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/throwaway-codes/2020-12-10.ipynb)
+
+- [x] [Notebook 2020-12-18](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/throwaway-codes/2020-12-18.ipynb)
+
+- [x] [Notebook 2020-12-19](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/throwaway-codes/2020-12-19.ipynb)
+
+- [x] [Notebook 2021-01-13](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/throwaway-codes/2021-01-13.ipynb)
+
 
 ## Untuk Kontributor
 Ada beberapa hal yang bisa Anda lakukan jika ingin menjadi kontributor. Dibawah ini saya berikan daftarnya.
