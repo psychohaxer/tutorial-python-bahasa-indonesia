@@ -26,7 +26,9 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.b Pemrograman Berorientasi Objek Part 2: Pewarisan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.b.ipynb)
 
-- [ ] Bab 10.c Pemrograman Berorientasi Objek Part 3: Bekerja dengan Atribut (In progress..)
+- [ ] Bab 10.c Pemrograman Berorientasi Objek Part 3: Enkapsulasi (In progress..)
+
+- [ ] Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme (In progress..)
 
 - [ ] Bab 11 Error dan Exception Handling
 
