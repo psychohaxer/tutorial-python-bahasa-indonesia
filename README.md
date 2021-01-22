@@ -2,7 +2,7 @@
 Repositori ini berisi notebook pembelajaran bahasa Python berbahasa Indonesia. Silahkan digunakan sebagai referensi atau bahan untuk belajar.
 
 ## Daftar Materi
-Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia) dengan link dibawah. Untuk materi tanpa link berarti belum tersedia dan bisa berubah sewaktu-waktu.
+Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyter.org) dengan link dibawah. Untuk materi tanpa link berarti belum tersedia dan bisa berubah sewaktu-waktu.
 
 - [x] [Bab 1: Pendahuluan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/1.ipynb)
 
@@ -26,7 +26,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.b Pemrograman Berorientasi Objek Part 2: Pewarisan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.b.ipynb)
 
-- [ ] Bab 10.c Pemrograman Berorientasi Objek Part 3: Enkapsulasi (In progress..)
+- [x] [Bab 10.c Pemrograman Berorientasi Objek Part 3: Enkapsulasi](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.c.ipynb)
 
 - [ ] Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme (In progress..)
 
@@ -74,11 +74,3 @@ Folder ini berisi notebook hasil latihan.
 - [x] [Notebook 2020-12-19](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/throwaway-codes/2020-12-19.ipynb)
 
 - [x] [Notebook 2021-01-13](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/throwaway-codes/2021-01-13.ipynb)
-
-
-## Untuk Kontributor
-Ada beberapa hal yang bisa Anda lakukan jika ingin menjadi kontributor. Dibawah ini saya berikan daftarnya.
-
-### Konversi notebook bab 1-9 menjadi PDF
-Karena suatu hal, saya tidak bisa mengkonversi notebook menjadi PDF. Tolong bantu saya dengan clone repository ini lalu konversi notebook bab 1 sampai bab 9 menjadi PDF untuk disimpan dalam folder `pdf` dan buat Pull Request.
-
