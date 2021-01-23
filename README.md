@@ -1,6 +1,9 @@
 # Tutorial Python Bahasa Indonesia
 Repositori ini berisi notebook pembelajaran bahasa Python berbahasa Indonesia. Silahkan digunakan sebagai referensi atau bahan untuk belajar.
 
+## Cara Penggunaan
+Repository ini berisi file dengan format .ipynb (iPython Notebook). Disarankan menggunakan Jupyter Notebook atau Visual Studio Code dengan ekstensi Python yang sudah terpasang. Jika tidak memiliki aplikasi untuk membukanya, gunakan link dibawah untuk membuka file dari browser.
+
 ## Daftar Materi
 Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyter.org) dengan link dibawah. Untuk materi tanpa link berarti belum tersedia dan bisa berubah sewaktu-waktu.
 
