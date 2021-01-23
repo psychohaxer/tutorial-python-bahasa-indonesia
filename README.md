@@ -2,7 +2,7 @@
 Repositori ini berisi notebook pembelajaran bahasa Python berbahasa Indonesia. Silahkan digunakan sebagai referensi atau bahan untuk belajar.
 
 ## Cara Penggunaan
-Repository ini berisi file dengan format .ipynb (iPython Notebook). Disarankan menggunakan Jupyter Notebook atau Visual Studio Code dengan ekstensi Python yang sudah terpasang. Jika tidak memiliki aplikasi untuk membukanya, gunakan link dibawah untuk membuka file dari browser.
+Repository ini berisi file dengan format .ipynb (iPython Notebook). Disarankan menggunakan Jupyter Notebook atau Visual Studio Code dengan ekstensi Python yang sudah terpasang supaya bisa belajar secara interaktif langsung dari notebook. Jika tidak memiliki aplikasi untuk membukanya, gunakan link dibawah untuk membuka file dari browser secara statis.
 
 ## Daftar Materi
 Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyter.org) dengan link dibawah. Untuk materi tanpa link berarti belum tersedia dan bisa berubah sewaktu-waktu.
@@ -66,6 +66,11 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 - [ ] Bab 26 Python Data Science
 
 - [ ] Bab 27 Python Machine Learning
+
+## Notebook Evaluasi
+Notebook ini berisi soal latihan.
+
+- [x] [Evaluasi 1 (Bab 1-10)](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/evaluasi/eval1.ipynb)
 
 ## Throwaway Codes
 Folder ini berisi notebook hasil latihan.
