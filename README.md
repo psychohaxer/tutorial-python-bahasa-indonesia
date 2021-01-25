@@ -33,6 +33,8 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [ ] Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme (In progress..)
 
+- [ ] Bab 10.e Pemrograman Berorientasi Objek Part 4: Abstraksi (In progress..)
+
 - [ ] Bab 11 Error dan Exception Handling
 
 - [ ] Bab 12 Modul dan Package
