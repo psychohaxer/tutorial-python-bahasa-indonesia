@@ -31,7 +31,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.c Pemrograman Berorientasi Objek Part 3: Enkapsulasi](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.c.ipynb)
 
-- [ ] Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme (In progress..)
+- [x] [Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.d.ipynb)
 
 - [ ] Bab 10.e Pemrograman Berorientasi Objek Part 4: Abstraksi (In progress..)
 
