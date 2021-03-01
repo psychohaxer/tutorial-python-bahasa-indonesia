@@ -33,7 +33,9 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.d.ipynb)
 
-- [ ] Bab 10.e Pemrograman Berorientasi Objek Part 4: Abstraksi (In progress..)
+- [x] Bab 10.e Pemrograman Berorientasi Objek Part 5: Abstraksi (In progress..)(https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.e.ipynb)
+
+- [ ] Bab 10.f Pemrograman Berorientasi Objek Part 6: Magic Method (In progress..)
 
 - [ ] Bab 11 Error dan Exception Handling
 
