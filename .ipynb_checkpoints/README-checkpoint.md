@@ -7,7 +7,7 @@ Repository ini berisi file dengan format .ipynb (iPython Notebook). Disarankan m
 ## Daftar Materi
 Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyter.org) dengan link dibawah. Untuk materi tanpa link berarti belum tersedia dan bisa berubah sewaktu-waktu.
 
-- [x] [Bab 1: Pendahuluan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/01_Bab_1_Pendahuluan.ipynb)
+- [x] [Bab 1 Pendahuluan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/01_Bab_1_Pendahuluan.ipynb)
 
 - [x] [Bab 2 Halo Python!](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/02_Bab_2_Halo_Python.ipynb)
 
@@ -37,7 +37,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.f Pemrograman Berorientasi Objek Part 6: Magic Method](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/15_Bab_10f_OOP_Magic_Method.ipynb)
 
-- [x] Bab 10.g Pemrograman Berorientasi Objek Part 7: Data Class
+- [ ] Bab 10.g Pemrograman Berorientasi Objek Part 7: Data Class
 
 - [ ] Bab 11 Error dan Exception Handling
 
