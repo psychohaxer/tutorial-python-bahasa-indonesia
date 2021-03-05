@@ -37,7 +37,7 @@ Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyt
 
 - [x] [Bab 10.f Pemrograman Berorientasi Objek Part 6: Magic Method](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/15_Bab_10f_OOP_Magic_Method.ipynb)
 
-- [x] Bab 10.g Pemrograman Berorientasi Objek Part 7: Data Class
+- [ ] Bab 10.g Pemrograman Berorientasi Objek Part 7: Data Class
 
 - [ ] Bab 11 Error dan Exception Handling
 
