@@ -7,35 +7,37 @@ Repository ini berisi file dengan format .ipynb (iPython Notebook). Disarankan m
 ## Daftar Materi
 Materi yang sudah tersedia bisa dibuka melalui [nbviewer](https://nbviewer.jupyter.org) dengan link dibawah. Untuk materi tanpa link berarti belum tersedia dan bisa berubah sewaktu-waktu.
 
-- [x] [Bab 1: Pendahuluan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/1.ipynb)
+- [x] [Bab 1: Pendahuluan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/01_Bab_1_Pendahuluan.ipynb)
 
-- [x] [Bab 2 Halo Python!](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/2.ipynb)
+- [x] [Bab 2 Halo Python!](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/02_Bab_2_Halo_Python.ipynb)
 
-- [x] [Bab 3 Variabel dan Input](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/3.ipynb)
+- [x] [Bab 3 Variabel dan Input](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/03_Bab_3_Variabel_dan_Input.ipynb)
 
-- [x] [Bab 4 Pengenalan Tipe Data](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/4.ipynb)
+- [x] [Bab 4 Pengenalan Tipe Data](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/04_Bab_4_Tipe_Data.ipynb)
 
-- [x] [Bab 5 Operator](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/5.ipynb)
+- [x] [Bab 5 Operator](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/05_Bab_5_Operator.ipynb)
 
-- [x] [Bab 6 Operasi Khusus pada Tipe Data](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/6.ipynb)
+- [x] [Bab 6 Operasi Khusus pada Tipe Data](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/06_Bab_6_Operasi_Tipe_Data_.ipynb)
 
-- [x] [Bab 7 Percabangan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/7.ipynb)
+- [x] [Bab 7 Percabangan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/07_Bab_7_Percabangan.ipynb)
 
-- [x] [Bab 8 Perulangan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/8.ipynb)
+- [x] [Bab 8 Perulangan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/08_Bab_8_Perulangan.ipynb)
 
-- [x] [Bab 9 Pemgoraman Fungsional](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/9.ipynb)
+- [x] [Bab 9 Pemgoraman Fungsional](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/09_Bab_9_Pemrograman_Fungsional.ipynb)
 
-- [x] [Bab 10.a Pemrograman Berorientasi Objek Part 1: Pengenalan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.a.ipynb)
+- [x] [Bab 10.a Pemrograman Berorientasi Objek Part 1: Pengenalan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/10_Bab_10a_OOP_Pengenalan.ipynb)
 
-- [x] [Bab 10.b Pemrograman Berorientasi Objek Part 2: Pewarisan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.b.ipynb)
+- [x] [Bab 10.b Pemrograman Berorientasi Objek Part 2: Pewarisan](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/11_Bab_10b_OOP_Pewarisan.ipynb)
 
-- [x] [Bab 10.c Pemrograman Berorientasi Objek Part 3: Enkapsulasi](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.c.ipynb)
+- [x] [Bab 10.c Pemrograman Berorientasi Objek Part 3: Enkapsulasi](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/12_Bab_10c_OOP_Enkapsulasi.ipynb)
 
-- [x] [Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.d.ipynb)
+- [x] [Bab 10.d Pemrograman Berorientasi Objek Part 4: Polimorfisme](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/13_Bab_10d_OOP_Polimorfisme.ipynb)
 
-- [x] [Bab 10.e Pemrograman Berorientasi Objek Part 5: Abstraksi](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.e.ipynb)
+- [x] [Bab 10.e Pemrograman Berorientasi Objek Part 5: Abstraksi](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/14_Bab_10e_OOP_Abstraksi.ipynb)
 
-- [ ] [Bab 10.f Pemrograman Berorientasi Objek Part 6: Magic Method (In progress..)](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/10.f.ipynb)
+- [x] [Bab 10.f Pemrograman Berorientasi Objek Part 6: Magic Method](https://nbviewer.jupyter.org/github/psychohaxer/tutorial-python-bahasa-indonesia/blob/master/pelajaran/15_Bab_10f_OOP_Magic_Method.ipynb)
+
+- [x] Bab 10.g Pemrograman Berorientasi Objek Part 7: Data Class
 
 - [ ] Bab 11 Error dan Exception Handling
 
